@@ -1,6 +1,6 @@
 import logo from "./logo-grey.png";
 import "./App.css";
-import pachina from "./pachaFinal.pdf";
+import pachina from "./pachaBloodSerumResults.pdf";
 
 function App() {
   return (
