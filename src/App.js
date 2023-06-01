@@ -1,6 +1,6 @@
 import logo from "./logo-grey.png";
 import "./App.css";
-import amanda from "./amandaFinal.pdf";
+import pachina from "./pachaFinal.pdf";
 
 function App() {
   return (
@@ -52,7 +52,7 @@ function App() {
                   <td>
                     <b>Report date</b>
                   </td>{" "}
-                  <td>26/04/2023</td>
+                  <td>14/04/2023</td>
                 </tr>{" "}
                 <tr>
                   <td>
@@ -71,7 +71,7 @@ function App() {
           </div>{" "}
           <div class="row">
             <div class="col-xs-12">
-              <a href={amanda} class="btn btn-primary btn-block btn-flat">
+              <a href={pachina} class="btn btn-primary btn-block btn-flat">
                 Download report (pdf format)
               </a>
             </div>
